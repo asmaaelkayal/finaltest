@@ -1,0 +1,27 @@
+.carousel
+{
+    width:70%;
+    margin: auto;
+    height: 500px;
+}
+.d-block
+{
+    height: 500px;
+}
+.carousel-caption h5
+{
+    color: red;
+}
+.carousel-caption p
+{
+    font-family: monospace;
+    color: skyblue;
+}
+carousel-indicators li {
+    
+    width: 19px;
+    height: 19px;
+    border-radius: 50%;
+    
+    background-color: rgba(255, 255, 255, 0.5);
+}
